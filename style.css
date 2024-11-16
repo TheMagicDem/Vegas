@@ -1,0 +1,772 @@
+body {
+    font-family: sans-serif;
+    zoom:100%;
+    /* Shop */
+left:0px;
+top:0px;
+position: relative;
+width: 1280px;
+
+background: white;
+
+}
+
+header{
+/* завантаження (7) */
+
+position: absolute;
+width: 1280px;
+height: 649px;
+left: 0px;
+top: 0px;
+
+background-color:black;
+
+}
+.logo{
+    position: absolute;
+    width: 35%;
+    left: 500px;
+    top:10px; 
+}
+.delivery{
+    /* Доставка */
+
+position: absolute;
+width: 91px;
+height: 23px;
+left: 148px;
+top: 163px;
+text-decoration: none;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+
+
+}
+.delivery:hover{
+    transform: scale(1.2);
+    transition: 1s linear;
+}
+.Halloween{
+    /* Halloween */
+
+position: absolute;
+width: 94px;
+height: 23px;
+left: 202px;
+top: 300px;
+text-decoration: none;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+
+
+}
+.Halloween:hover{
+    transform: scale(1.2);
+    transition: 1s linear;
+}
+.footwear{
+    /* Взуття */
+
+position: absolute;
+width: 63px;
+height: 23px;
+left: 1001px;
+top: 289px;
+text-decoration: none;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+
+
+}
+.footwear:hover{
+    transform: scale(1.2);
+    transition: 1s linear;
+}
+.clothing{ /* Жіночий і чоловічий одяг */
+
+position: absolute;
+width: 143px;
+height: 46px;
+left: 1097px;
+top: 163px;
+text-decoration: none;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+
+
+
+}
+.clothing:hover{
+    transform: scale(1.2);
+    transition: 1s linear;
+}
+.one{
+    /* Магазин */
+
+position: absolute;
+width: 259px;
+height: 75px;
+left: 450px;
+top: 484px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+}
+.one:hover{
+    transform: scale(1.5);
+    transition: 1s linear;
+}
+.two{
+    /* одягу */
+
+position: absolute;
+width: 166px;
+height: 75px;
+left: 773px;
+top: 484px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+.two:hover{
+    transform: scale(1.5);
+    transition: 1s linear;
+}
+
+
+.us{
+    /* Про нас */
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 88px;
+top: 750px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+
+
+}
+.us:hover{
+    transition: 1s linear;
+    transform: scale(1.2);
+}
+.text-info{
+    /* Опис компанії, магазину, школи, головного товаруОпис компанії, магазину, школи, головного товаруОпис компанії, магазину, школи, головного товаруОпис компанії, магазину, школи, головного товаруОпис компанії, магазину, школи, головного товаруОпис компанії, магазину, школи, головного товаруОпис компанії, магазину, школи, головного товаруОпис компанії, магазину, школи, головного товару */
+
+position: absolute;
+width: 574px;
+height: 161px;
+left: 88px;
+top: 855px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+
+}
+.img{
+    /* завантаження (4) */
+
+position: absolute;
+width: 400px;
+height: 383px;
+left: 740px;
+top: 779.56px;
+
+border-radius: 48px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+}
+.tovar{
+    /* Каталог */
+
+position: absolute;
+width: 181px;
+height: 56px;
+left: 549px;
+top: 1300px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+
+
+}
+.tovar:hover{
+    transition: 1s linear;
+    transform: scale(1.2);
+}
+.t-shirt-img{
+    /* shopping (1) */
+
+position: absolute;
+width: 250px;
+height: 350px;
+left: 100px;
+top: 1450px;
+
+background: url(shopping (1).png);
+
+}
+.t-shirt-t{
+    /* футболка */
+
+position: absolute;
+width: 143px;
+height: 38px;
+left: 150px;
+top: 1771px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+/* identical to box height */
+
+color: #000000;
+
+
+}
+.text{
+    /* придмет для людини, дуже зручна */
+
+position: absolute;
+width: 326px;
+height: 23px;
+left: 100px;
+top: 1839px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+
+}
+.sallary{
+    /* Ціна: 1399,00 грн */
+
+position: absolute;
+width: 196px;
+height: 28px;
+left: 130px;
+top: 1952px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+background-color: bisque;
+padding:15px;
+border-radius: 15px;
+text-align: center;
+
+}
+.sallary:hover{
+    box-shadow: 3px 3px 3px 3px grey;
+    transition: 1s linear;
+}
+.snnkiy-img{
+    /* shopping (2) */
+
+position: absolute;
+width: 325px;
+height: 250px;
+left: 479px;
+top: 1499px;
+
+background: url(shopping (2).png);
+
+}
+.h4{
+    /* Худі */
+
+position: absolute;
+width: 61px;
+height: 38px;
+left: 545px;
+top: 1771px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+/* identical to box height */
+
+color: #000000;
+
+
+}
+.text1{
+    /* це модель на основі нестандартної конструкції реглан-погон. */
+
+position: absolute;
+width: 337px;
+height: 46px;
+left: 474px;
+top: 1839px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+
+}
+.sallary1{
+    /* Ціна: 899,00 грн */
+
+position: absolute;
+width: 182px;
+height: 28px;
+left: 479px;
+top: 1952px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+background-color: bisque;
+padding:15px;
+border-radius: 15px;
+text-align: center;
+
+
+}
+.sallary1:hover{
+    box-shadow: 3px 3px 3px 3px grey;
+    transition: 1s linear;
+}
+.w-img{
+    /* shopping (3) */
+
+position: absolute;
+width: 225px;
+height: 280px;
+left: 859px;
+top: 1479px;
+
+background: url(shopping (3).png);
+
+}
+.fut{
+    /* футболка жіноча */
+
+position: absolute;
+width: 255px;
+height: 38px;
+left: 899px;
+top: 1771px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+/* identical to box height */
+
+color: #000000;
+
+
+}
+.text2{
+    /* одяг, призначений спеціально для жінок, має відмінності в дизайні та крої в порівнянні із чоловічими футболками. */
+
+position: absolute;
+width: 309px;
+height: 161px;
+left: 879px;
+top: 1839px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+
+}
+.sallary2{
+    /* Ціна: 1299,00 грн */
+
+position: absolute;
+width: 196px;
+height: 28px;
+left: 879px;
+top: 1952px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+background-color: bisque;
+padding:15px;
+border-radius: 15px;
+text-align: center;
+
+
+}
+.sallary2:hover{
+    box-shadow: 3px 3px 3px 3px grey;
+    transition: 1s linear;
+}
+.vidguk_1{
+    /* Відгуки */
+
+position: absolute;
+width: 168px;
+height: 56px;
+left: 549px;
+top: 2061px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+
+
+}
+.vidguk_1:hover{
+    transition: 1s linear;
+    transform: scale(1.2);
+}
+.vidguk-img{
+    /* images (7) */
+
+position: absolute;
+width: 190px;
+height: 190px;
+left: 149px;
+top: 2223px;
+
+background: url(images (7).jpg);
+
+}
+.first_1 p{
+    /* Мені сподобався ваш магазин, дякую за прикольні акції! */
+
+position: absolute;
+width: 700px;
+height: 28px;
+left: 387px;
+top: 2296px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+}
+.second-img{
+    /* завантаження (6) */
+
+position: absolute;
+width: 190px;
+height: 190px;
+left: 149px;
+top: 2519px;
+border-radius: 50%;
+background: url(завантаження (6).jpg);
+
+}
+.second-art p{
+    /* Магазин чудовий! Дякуємо за хороші придмети! */
+
+position: absolute;
+width: 700px;
+height: 28px;
+left: 387px;
+top: 2592px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+}
+.cs{
+    /* Де нас знайти? */
+
+position: absolute;
+width: 344px;
+height: 56px;
+left: 468px;
+top: 2855px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+
+
+}
+.cs:hover{
+    transition: 1s linear;
+    transform: scale(1.2);
+}
+iframe{
+    /* Без імені */
+
+position: absolute;
+width: 670px;
+height: 500px;
+left: 305px;
+top: 3041px;
+
+background: url(Без імені.png);
+
+}
+.adress{
+    /* Адреса */
+
+position: absolute;
+width: 125px;
+height: 42px;
+left: 577px;
+top: 3609px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 42px;
+
+color: #000000;
+
+
+}
+.adress:hover{
+     transition: 1s linear;
+    transform: scale(1.2);
+}
+.top{
+    /* місто Київ вул. Незалежності 34 */
+
+position: absolute;
+width: 362px;
+height: 84px;
+left: 459px;
+top: 3736px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.top1{
+   /* місто Харків вул. Сумська 60 */
+
+position: absolute;
+width: 271px;
+height: 84px;
+left: 504px;
+top: 3898px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+color: #000000;
+
+ 
+}
+.top2{
+    /* місто Львів вул. Богдана Хмельницького 14 */
+
+position: absolute;
+width: 540px;
+height: 84px;
+left: 370px;
+top: 4060px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+color: #000000;
+
+
+}
+footer{
+    /* Rectangle 11 */
+
+position: absolute;
+width: 1280px;
+height: 185px;
+left: 0px;
+top: 4269px;
+
+background: #744AD5;
+
+}
+footer h4{
+    /* Номер телефону: 0968443871 */
+
+position: absolute;
+width: 500px;
+height: 42px;
+left: 88px;
+top: 36px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+
+
+}
+footer h4:hover{
+    color:white;
+    transform: scale(1.2);
+    transition: 1s linear;
+}
+footer p{
+    /* Соц мережі */
+
+position: absolute;
+width: 131px;
+height: 28px;
+left: 971px;
+top: 22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.i{
+    /* завантаження (7) */
+
+position: absolute;
+width: 74px;
+height: 67px;
+left: 971px;
+top: 88px;
+border-radius: 15px;
+
+}
+.f{
+
+position: absolute;
+width: 74px;
+height: 67px;
+left: 1110px;
+top: 88px;
+border-radius: 15px;
+
+}
+
+.info{
+    width: 1280px;
+}
+
+
